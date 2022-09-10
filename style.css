@@ -157,7 +157,7 @@ footer {
 
 .slider .slides {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 0;
   transform: translateY(-50%);
   z-index: 10;
